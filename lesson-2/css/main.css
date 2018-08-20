@@ -6,3 +6,30 @@
 
 
 /* CSS FILE COMMENTS [ INLINE ] */
+div {
+      background-color: lightcyan;
+    }
+    .main {
+         padding: 15px;
+         background-color: #FBFEF2;
+         flex-basis: 75%;
+         
+    }
+    section {
+      background-color: lightgoldenrodyellow;
+    }
+    aside {
+      background-color: lightgreen;
+    }
+    .sidebar {
+      border: 1px dotted #000;
+      padding: 15px;
+      background-color: #ECF0F6;
+      flex-basis: 25%;
+    }
+    .wrapper {
+      margin: 20px;
+      padding: 10px;
+      display: flex;
+      background-color: #FDFEFE;
+    }

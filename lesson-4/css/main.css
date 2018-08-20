@@ -7,3 +7,18 @@
 
 /* CSS FILE COMMENTS [ INLINE ] */
 
+button {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+#myDIV {
+    text-align: center;
+    background-color: lightgreen;
+    margin: 10px;
+    
+}
+.clicked {
+    background-color: red;
+}
